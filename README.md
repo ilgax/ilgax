@@ -1,33 +1,16 @@
-# hey, I'm Ilgaz 👋
+# Hey, I'm Ilgaz 👋
 
-> learning to break things (ethically) 🔐
+I'm a student with a strong interest in cybersecurity, cryptography, and breaking things to understand how they work.
 
----
+## 🛠️ Tech Stack
 
-## 🧠 about me
+[![My Skills](https://skillicons.dev/icons?i=python,linux,bash,kali,vscode)](https://skillicons.dev)
 
-- 🔒 interested in **cybersecurity** & **cryptography**
-- 🐍 working with **Python**
-- 🐧 tinkering with **Kali Linux**
-- 📖 always learning something new
+## 📈 GitHub Stats
 
----
-
-## 🛠️ tools & tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📬 find me
-
-- 🐦 Twitter/X: [@yourusername](https://twitter.com/yourusername)
-- 📧 Email: you@email.com
-
----
-
-<p align="center">
-  <i>"The quieter you become, the more you can hear."</i>
-</p>
+[![Visits](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)](https://github.com/YOUR_USERNAME)
