@@ -13,4 +13,4 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 
 ---
 
-[![Visits](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)](https://github.com/ilgax)
+[![Visits](https://komarev.com/ghpvc/?username=ilgax&style=for-the-badge)](https://github.com/ilgax)
