@@ -7,6 +7,7 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 ## 💻 IDEs
 
 [![My IDEs](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My IDEs](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
