@@ -1,4 +1,4 @@
-I'm a student with a strong interest in cybersecurity, cryptography, and breaking things to understand how they work.
+I'm a student with a strong interest in cybersecurity, cryptography, and breaking things to understand how they work. (og atom enjoyer)
 
 ## 🛠️ Tech Stack
 
