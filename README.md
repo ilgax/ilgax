@@ -1,14 +1,20 @@
+# Hey, I'm Ilgaz 👋
+
 I'm a student with a strong interest in cybersecurity, cryptography, and breaking things to understand how they work.
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,bash,kali)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 🐧 Platforms
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 💻 IDEs
 
-[![My IDEs](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
-[![My IDEs](https://skillicons.dev/icons?i=intellij)](https://skillicons.dev)
-[![My IDEs](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📈 GitHub Stats
 
