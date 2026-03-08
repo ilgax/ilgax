@@ -5,6 +5,7 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 [<img src="https://skillicons.dev/icons?i=py" />](https://www.python.org)
 [<img src="https://skillicons.dev/icons?i=kotlin" />](https://kotlinlang.org)
 [<img src="https://skillicons.dev/icons?i=java" />](https://www.java.com)
+[<img src="https://skillicons.dev/icons?i=cs" />](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ## 💻 IDEs
 
@@ -19,6 +20,7 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 [<img src="https://skillicons.dev/icons?i=linux" />](https://www.linux.org)
 [<img src="https://skillicons.dev/icons?i=github" />](https://github.com)
 [<img src="https://skillicons.dev/icons?i=bash" />](https://www.gnu.org/software/bash)
+[<img src="https://skillicons.dev/icons?i=unity" />](https://unity.com)
 
 ## 📈 GitHub Stats
 
