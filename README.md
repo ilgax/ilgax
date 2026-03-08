@@ -17,13 +17,14 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 
 [<img src="https://skillicons.dev/icons?i=kali" />](https://www.kali.org)
 [<img src="https://skillicons.dev/icons?i=linux" />](https://www.linux.org)
+[<img src="https://skillicons.dev/icons?i=git" />](https://git-scm.com)
 [<img src="https://skillicons.dev/icons?i=github" />](https://github.com)
 [<img src="https://skillicons.dev/icons?i=bash" />](https://www.gnu.org/software/bash)
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilgax&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilgax&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-nu-liart-43.vercel.app/api?username=ilgax&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nu-liart-43.vercel.app/api/top-langs/?username=ilgax&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
