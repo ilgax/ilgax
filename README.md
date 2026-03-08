@@ -1,4 +1,4 @@
-A student with a strong interest in cybersecurity and cryptography. I enjoy breaking things down to understand how they work, as well as modding games.
+A cybersecurity & cryptography student. I break things to learn how they work and occasionally mod games.
 
 ## 🛠️ Languages
 
