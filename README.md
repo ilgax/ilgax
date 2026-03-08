@@ -10,10 +10,6 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 
 <!-- add your IDE badges here -->
 
-## 🖥️ Platforms
-
-<!-- add your platform badges here -->
-
 ## 🔧 Tools
 
 <!-- add your tool badges here -->
