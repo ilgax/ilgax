@@ -24,7 +24,3 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats-nu-liart-43.vercel.app/api/top-langs/?username=ilgax&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Visits](https://komarev.com/ghpvc/?username=ilgax&style=for-the-badge)](https://github.com/ilgax)
