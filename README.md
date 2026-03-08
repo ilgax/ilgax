@@ -24,7 +24,7 @@ A cybersecurity & cryptography student. I break things to learn how they work an
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats-nu-liart-43.vercel.app/api/top-langs/?username=ilgax&show_icons=true&langs_count=12&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nu-liart-43.vercel.app/api/top-langs/?username=ilgax&show_icons=true&langs_count=6&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect
 
