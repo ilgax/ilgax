@@ -3,7 +3,7 @@
 I'm a student with a strong interest in cybersecurity, cryptography, and breaking things to understand how they work.
 
 ## 🛠️ Languages
-
+![Python](https://badgen.net/badge/Python/3.12/blue?icon=python)
 <!-- add your language badges here -->
 
 ## 💻 IDEs
