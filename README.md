@@ -17,7 +17,7 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 <!-- add your IDE badges here -->
 
 ## 🔧 Tools
-
+[![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 <!-- add your tool badges here -->
 
 ## 📈 GitHub Stats
