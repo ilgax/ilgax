@@ -17,7 +17,6 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 
 [<img src="https://skillicons.dev/icons?i=kali" />](https://www.kali.org)
 [<img src="https://skillicons.dev/icons?i=linux" />](https://www.linux.org)
-[<img src="https://skillicons.dev/icons?i=git" />](https://git-scm.com)
 [<img src="https://skillicons.dev/icons?i=github" />](https://github.com)
 [<img src="https://skillicons.dev/icons?i=bash" />](https://www.gnu.org/software/bash)
 
