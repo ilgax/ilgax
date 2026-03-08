@@ -3,21 +3,22 @@
 I'm a student with a strong interest in cybersecurity, cryptography, and breaking things to understand how they work.
 
 ## 🛠️ Languages
-![Python](https://badgen.net/badge/Python/3.12/blue?icon=python)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-<!-- add your language badges here -->
+
+[<img src="https://skillicons.dev/icons?i=py" />](https://www.python.org)
 
 ## 💻 IDEs
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-[![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
-[![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
-[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
-[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
-<!-- add your IDE badges here -->
+
+[<img src="https://skillicons.dev/icons?i=idea" />](https://www.jetbrains.com/idea)
+[<img src="https://skillicons.dev/icons?i=pycharm" />](https://www.jetbrains.com/pycharm)
+[<img src="https://skillicons.dev/icons?i=rider" />](https://www.jetbrains.com/rider)
+[<img src="https://skillicons.dev/icons?i=atom" />](https://github.com/atom/atom)
+
+## 🖥️ Platforms
+
+<!-- add your platform badges here -->
 
 ## 🔧 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
 <!-- add your tool badges here -->
 
 ## 📈 GitHub Stats
