@@ -4,6 +4,7 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 
 ## 🛠️ Languages
 ![Python](https://badgen.net/badge/Python/3.12/blue?icon=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <!-- add your language badges here -->
 
 ## 💻 IDEs
