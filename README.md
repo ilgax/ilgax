@@ -5,6 +5,8 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 ## 🛠️ Languages
 
 [<img src="https://skillicons.dev/icons?i=py" />](https://www.python.org)
+[<img src="https://skillicons.dev/icons?i=kotlin" />](https://kotlinlang.org)
+[<img src="https://skillicons.dev/icons?i=java" />](https://www.java.com)
 
 ## 💻 IDEs
 
@@ -12,10 +14,6 @@ I'm a student with a strong interest in cybersecurity, cryptography, and breakin
 [<img src="https://skillicons.dev/icons?i=pycharm" />](https://www.jetbrains.com/pycharm)
 [<img src="https://skillicons.dev/icons?i=rider" />](https://www.jetbrains.com/rider)
 [<img src="https://skillicons.dev/icons?i=atom" />](https://github.com/atom/atom)
-
-## 🖥️ Platforms
-
-<!-- add your platform badges here -->
 
 ## 🔧 Tools
 
