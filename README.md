@@ -1,5 +1,3 @@
-# Hey, I'm Ilgaz 👋
-
 I'm a student with a strong interest in cybersecurity, cryptography, and breaking things to understand how they work.
 
 ## 🛠️ Languages
