@@ -25,3 +25,8 @@ A cybersecurity & cryptography student. I break things to learn how they work an
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats-nu-liart-43.vercel.app/api/top-langs/?username=ilgax&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Connect
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOURID)
+[![NexusMods](https://img.shields.io/badge/NexusMods-D98F40?style=for-the-badge&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/users/YOURID)
