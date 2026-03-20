@@ -17,6 +17,7 @@ A cybersecurity & cryptography student. I break things to learn how they work an
 ## 🔧 Tools
 
 [<img src="https://skillicons.dev/icons?i=kali" />](https://www.kali.org)
+[<img src="https://skillicons.dev/icons?i=arch" />](https://archlinux.org)
 [<img src="https://skillicons.dev/icons?i=linux" />](https://www.linux.org)
 [<img src="https://skillicons.dev/icons?i=github" />](https://github.com)
 [<img src="https://skillicons.dev/icons?i=bash" />](https://www.gnu.org/software/bash)
