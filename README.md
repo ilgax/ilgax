@@ -25,8 +25,8 @@ A cybersecurity & cryptography student. I break things to learn how they work an
 
 ## 📈 Stats
 
-[![Top Langs](https://github-readme-stats-xcyn.vercel.app/api/top-langs/?username=ilgax&theme=catppuccin_mocha&layout=compact&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-[![WakaTime](https://github-readme-stats-xcyn.vercel.app/api/wakatime?username=ilgax&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800)](https://wakatime.com/@Ilgax)
+[![Top Langs](https://stats.ilgax.com.tr/api/top-langs/?username=ilgax&theme=catppuccin_mocha&layout=compact&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime](https://stats.ilgax.com.tr/api/wakatime?username=ilgax&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6)](https://wakatime.com/@Ilgax)
 
 ## 🌐 Connect
 
