@@ -17,6 +17,7 @@ A cybersecurity & cryptography student. I break things to learn how they work an
 ## 🔧 Tools
 
 [<img src="https://skillicons.dev/icons?i=linux" />](https://www.linux.org)
+[<img src="https://skillicons.dev/icons?i=postgres" />](https://postgresql.org)
 [<img src="https://skillicons.dev/icons?i=docker" />](https://docker.com)
 [<img src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org)
 [<img src="https://skillicons.dev/icons?i=bash" />](https://www.gnu.org/software/bash)
