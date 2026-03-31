@@ -1,4 +1,4 @@
-A cybersecurity & cryptography student. I break things to learn how they work and occasionally mod games.
+A cybersecurity & cryptography student. Better programmer that pirate software.
 
 ## 🛠️ Languages
 
