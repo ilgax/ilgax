@@ -32,4 +32,4 @@ A cybersecurity & cryptography student. Better programmer that pirate software.
 ## 🌐 Connect
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781961041452990464)
-[![NexusMods](https://img.shields.io/badge/NexusMods-D98F40?style=for-the-badge&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/profile/itsilgax)
+[![NexusMods](https://img.shields.io/badge/NexusMods-D98F40?style=for-the-badge&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/profile/xcyndev)
