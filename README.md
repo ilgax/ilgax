@@ -5,7 +5,7 @@ A cybersecurity & cryptography student.
 [<img src="https://skillicons.dev/icons?i=kotlin" />](https://kotlinlang.org)
 [<img src="https://skillicons.dev/icons?i=py" />](https://www.python.org)
 [<img src="https://skillicons.dev/icons?i=java" />](https://www.java.com)
-[<img src="https://skillicons.dev/icons?i=go" />](https://go.dev)
+[<img src="https://skillicons.dev/icons?i=go&theme=dark" />](https://go.dev)
 [<img src="https://skillicons.dev/icons?i=cs" />](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ## 💻 IDEs
