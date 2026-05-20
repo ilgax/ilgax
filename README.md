@@ -12,6 +12,7 @@ A cybersecurity & cryptography student.
 
 [<img src="https://skillicons.dev/icons?i=idea" />](https://www.jetbrains.com/idea)
 [<img src="https://skillicons.dev/icons?i=pycharm" />](https://www.jetbrains.com/pycharm)
+[<img src="https://skillicons.dev/icons?i=goland" />](https://www.jetbrains.com/goland)
 [<img src="https://skillicons.dev/icons?i=rider" />](https://www.jetbrains.com/rider)
 [<img src="https://skillicons.dev/icons?i=atom" />](https://github.com/atom/atom)
 
