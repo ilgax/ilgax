@@ -27,7 +27,7 @@ A cybersecurity & cryptography student.
 ## 📈 Stats
 
 [![Top Langs](https://stats.ilgax.com.tr/api/top-langs/?username=ilgax&theme=catppuccin_mocha&layout=compact&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![WakaTime](https://stats.ilgax.com.tr/api/wakatime?username=ilgax&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6)](https://wakatime.com/@Ilgax)
+# [![WakaTime](https://stats.ilgax.com.tr/api/wakatime?username=ilgax&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6)](https://wakatime.com/@Ilgax)
 
 ## 🌐 Connect
 
